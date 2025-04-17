@@ -3,7 +3,7 @@ body{
   text-align: center;
 }
 .tx{
-  color:  #c01616;
+  color:  #000000;
 }
 /* the period in a CSS selector selects an element by class, e.g., class="minor-section" */
 .minor-section {
