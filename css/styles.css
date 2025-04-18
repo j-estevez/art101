@@ -1,4 +1,6 @@
-#dive{
+body{
+  text-align: center;
+  background-color: #342921;
 
 }
 #lab3style {
@@ -6,3 +8,23 @@
   height: 400px;
 }
 
+.title{
+  margin: 10px;
+  padding: 10px;
+  border: solid 1px #888;
+  background-color: #bcab8f;
+}
+
+.paragraph{
+  margin: 10px;
+  padding: 10px;
+  border: solid 1px #888;
+  background-color: #bcab8f;
+}
+
+.link{
+  margin: 10px;
+  padding: 10px;
+  border: solid 1px #26cee4;
+  background-color: #bcab8f;
+}
