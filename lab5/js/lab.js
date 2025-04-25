@@ -1,6 +1,6 @@
 // index.js - purpose and description here
-// Author: Your Name
-// Date:
+// Author: Jeffrey Estevez
+// Date: April 24, 2025
 
 // Constants
 
@@ -19,3 +19,18 @@ function main() {
 
 // let's get this party started
 main();
+
+//Define Variables
+make = "Ford";
+model = "Ford Tarus";
+color = "Rusty";
+year = 1995;
+//Calculate
+age = 2025 - year;
+
+//output
+document.writeln("Make: " + make +"<br>");
+document.writeln("Model: " + model +"<br>");
+document.writeln("Color: " + color +"<br>");
+document.writeln("Year: " + year +"<br>");
+document.writeln("Age: " + Age +"<br>");
