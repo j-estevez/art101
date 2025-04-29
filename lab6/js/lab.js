@@ -21,7 +21,7 @@ myMainRide = {
 document.writeln("The kinds of transport I use: ", myTransport, "</br>");
 //This allow us to write object to the doc.
 document.writeln("My Main Ride: <pre>",
-  JSON.stringify(myDreamRide, null, '\t'), "</pre>");
+  JSON.stringify(myMainRide, null, '\t'), "</pre>");
 
 
 myMainRide.age()
