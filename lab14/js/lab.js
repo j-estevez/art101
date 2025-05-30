@@ -1,6 +1,6 @@
 //Lab 13: Debugging Lab 8
 // Author: Jeffrey Estevez
-// Date: 05/25/2025
+// Date: 05/26/2025
 
 //function
 function isEven(x){
