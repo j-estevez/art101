@@ -1,0 +1,22 @@
+.minor-section {
+    padding: 10px;
+    margin-bottom: 10px;
+    border: solid 1px #888;
+    background-color: #DDD8C4;
+  }
+  
+#output {
+  font-family: Arial, sans-serif;
+  font-size: 14px;
+}
+
+#output span {
+  display: inline-block;
+  width: 60px;
+  text-align: center;
+  margin: 2px;
+}
+
+#output p {
+  margin: 0;
+}
